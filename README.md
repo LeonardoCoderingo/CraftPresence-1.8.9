@@ -1,2 +1,2 @@
-# Farming Macro Mod 1.8.9 
-## Get Good Get Macro 
+# CraftPresence Mod
+## Completely customize the way others see you play Minecraft via Discord's Rich Presence API & the DiscordIPC API
